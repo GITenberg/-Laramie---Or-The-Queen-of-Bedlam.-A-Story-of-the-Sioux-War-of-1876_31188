@@ -1,0 +1,26 @@
+_repo: -Laramie---Or-The-Queen-of-Bedlam.-A-Story-of-the-Sioux-War-of-1876_31188
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: King, Charles
+    birthdate: 1844
+    deathdate: 1933
+    gutenberg_agent_id: '6787'
+    url: http://www.gutenberg.org/2009/agents/6787
+description: ''
+gutenberg_issued: '2010-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dakota Indians -- Wars, 1876 -- Fiction'
+- !lcc 'PS'
+title: '"Laramie;" Or, The Queen of Bedlam. A Story of the Sioux War of 1876'
+url: http://www.gutenberg.org/ebooks/31188
